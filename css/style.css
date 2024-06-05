@@ -1,0 +1,10 @@
+/* Styling for elements with class 'root' */
+.root {
+    /* Setting background image */
+    background-image: url("/dog-image.jpg");
+    /* Controlling how the background image is sized */
+    background-size: cover;
+}
+
+
+
